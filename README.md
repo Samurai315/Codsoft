@@ -14,7 +14,7 @@ This project focuses on predicting customer churn using various machine learning
 - [Further Training](#further-training)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Project Overview
 
@@ -90,6 +90,3 @@ Classification Report:
 
 Contributions are welcome! Please create a pull request or open an issue to discuss changes.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
